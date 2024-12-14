@@ -23,10 +23,7 @@ The system is optimized for mobile devices and incorporates **voice recognition*
 - **📱 Mobile Compatibility**:
   - Fully optimized for **Android** devices.
   - Ensures fast, on-the-go access to information for passengers.
-
-- **🖥️ Web Interface**:
-  - A responsive and user-friendly **web interface** for easy interaction with the system.
-
+  - 
 ---
 
 ## 🛠️ Technologies Used 💻
